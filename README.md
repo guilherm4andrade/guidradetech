@@ -29,6 +29,6 @@ Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, 
 
 "A melhor maneira de **prever** o futuro é **inventá-lo**."
 
-"O verdadeiro **problema** não é se as máquinas pensam, **mas se os humanos o fazem**
+"O verdadeiro **problema** não é se as máquinas pensam, **mas se os humanos o fazem**"
 
 "O Código que escreve hoje, será o seu **legado** amanhã"
