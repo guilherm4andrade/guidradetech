@@ -32,7 +32,5 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guidradetech&theme=dark&hide_border=true&background=000000" />
 </p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/guidradetech/guidradetech/output/snake-dark.svg" />
 </p>
