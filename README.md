@@ -1,6 +1,6 @@
 ## WELCOME TO MY GITHUB PROFILE. NICE TO MEET
 
- ** systems analysis and development - ADS STUDENT | TECH FOCUSED**  
+ ** ADS Student | Software Development Learner| TECH FOCUSED**  
 
 Estou no início da minha jornada em programação (starting my journey in tech), aprendendo do zero e construindo minha base.
 
