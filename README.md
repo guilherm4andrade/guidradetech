@@ -27,4 +27,4 @@ I am at the beginning of my programming journey, learning from scratch and build
 
 ---
 
-![Snake animation](https://github.com/guidradetech/guidradetech/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/guidradetech/guidradetech/blob/output/github-contribution-grid-snake-dark.svg)
