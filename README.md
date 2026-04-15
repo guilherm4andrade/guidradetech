@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB+PROFILE" />
 </p>
 
 <p align="center">
-  <b>ADS STUDENT | SOFTWARE DEVELOPMENT LEARNER | TECH-FOCUSED</b>
+  <b>ADS Student | Software Development Learner | tech-focused</b>
 </p>
 
 ---
