@@ -1,35 +1,21 @@
-## WELCOME TO MY GITHUB PROFILE. NICE TO MEET
+## 👋 WELCOME TO MY GITHUB PROFILE
 
- **ADS Student | Software Development Learner | Tech-Focused**  
+**ADS Student | Software Development Learner | Tech-focused**
 
-Estou no início da minha jornada em programação (starting my journey in tech), aprendendo do zero e construindo minha base.
+I am at the beginning of my programming journey, learning from scratch and building a strong foundation in technology.
 
 ---
 
-## GOALS 
-Me tornar desenvolvedor Back-end com foco em Cloud
-Aprender programação e evoluir constantemente
-Construir projetos práticos para ganhar experiência
-Conseguir minha primeira oportunidade na área de tecnologia
+## 🎯 GOALS
 
+- 🚀 Become a Back-end developer with a focus on Cloud technologies  
+- 💻 Learn programming and continuously improve my skills  
+- 🛠️ Build practical projects to gain real experience  
+- 🌐 Get my first opportunity in the tech industry  
 
-## GET IN TOUCH
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/guilherm4andrade/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](guilhermecontact.tech@gmail.com)
+## 📫 GET IN TOUCH
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/guidradetech/guidradetech/output/snake.svg" alt="Snake animation" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/guilherm4andrade/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:guilhermecontact.tech@gmail.com)
