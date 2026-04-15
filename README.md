@@ -15,16 +15,11 @@ I am at the beginning of my programming journey, learning from scratch and build
 
 ---
 
-## 📫 GET IN TOUCH
-
-## 📫 GET IN TOUCH
 
 ## 📫 GET IN TOUCH
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherm4andrade/)
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecontact.tech@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guidradetech)
 
 
